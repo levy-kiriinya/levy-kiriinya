@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @levy-kiriinya
 - 👀 I’m interested in ...cybersecurity 
-- 🌱 I’m currently learning ... ethical hacking and coding using python  
+- 🌱 I’m currently learning ... ethical hacking and python programming  
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Email accoount kiriinyalevy@gmail.com 
+- 📫 How to reach me ... Email: kiriinyalevy@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
