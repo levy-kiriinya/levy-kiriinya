@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @levy-kiriinya
-- 👀 I’m interested in ...cybersecurity 
+- 👀 I’m interested in ...cybersecurity,webdevelopment,cloud computing 
 - 🌱 I’m currently learning ... ethical hacking and python programming  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Email: kiriinyalevy@gmail.com 
